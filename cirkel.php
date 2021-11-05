@@ -1,8 +1,8 @@
 <?php
 
-readline: "voer de diameter van een cirkel in:";
+readline: ("voer de diameter van een cirkel in:");
 
-
+if (readline )
 
 
 
