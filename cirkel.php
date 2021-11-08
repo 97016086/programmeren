@@ -1,11 +1,15 @@
 <?php
+$diameter= (1-100);
+$getal = readline("voer de diameter van een cirkel in :");
+$pi=3.14;
 
-$readline= ("voer de diameter van een cirkel in:");
 
+$som = $diameter * $pi;
+$straal = 0.5 * $diameter;
+$oppervlakte = $pi * $straal * $straal;
 
-
-echo "de omtrek van de cirkel is\n";
-echo "de oppervlakte van de cirkel is\n";
+echo "\nde omtrek van de cirkel is $som ";
+echo "\nde oppervlakte van de cirkel is $oppervlakte";
 
 
 
