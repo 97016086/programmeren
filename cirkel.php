@@ -1,5 +1,5 @@
 <?php
-$diameter= (1-100);
+$diameter= rand(1,100);
 $getal = readline("voer de diameter van een cirkel in :");
 $pi=3.14;
 
