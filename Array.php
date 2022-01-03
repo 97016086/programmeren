@@ -1,11 +1,23 @@
 <?php
+$programmeertalen=array("PHP", "C#",  "HTML",  "Javascript",   "Java",   "C++",  "C");
+array_push($programmeertalen, "Python","Swift");
+sort($programmeertalen);
 
-$progammeertalen = array("PHP","C#","HTML","Javascript","Java","C++","C");
-$progammeertalen2 = array("Python","Swift");
+print_r($programmeertalen);
 
 
 
-echo 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
